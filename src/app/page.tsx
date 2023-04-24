@@ -1,5 +1,6 @@
 
 import {Home as HomeIcon, Search, Library, ChevronLeft, ChevronRight} from 'lucide-react'
+import Image from 'next/image'
 
 export default function Home() {
   return (
@@ -47,6 +48,33 @@ export default function Home() {
             <button  className='rounded-full bg-black/40 p-1'>
               <ChevronRight/>
             </button>
+        </div>
+        <h1 className='font-semibold text-3xl mt-10'>Good Afternoon</h1>
+        <div className='grid grid-cols-3 gap-4 mt-6'>
+          <div className='bg-white/10 rounded  flex items-center  gap-4 overflow-hidden'>
+            <Image src="/images/disco1.jpg" width={104} height={104} alt="capa do album"/>
+              <strong>Salada de Frutas</strong>
+            </div>
+          <div className='bg-white/10 rounded  flex items-center  gap-4 overflow-hidden'>
+          <Image src="/images/disco02.jpg" width={104} height={104} alt="capa do album"/>
+          <strong>random songs</strong>
+          </div>
+          <div className='bg-white/10 rounded flex items-center  gap-4  overflow-hidden'>
+          <Image src="/images/disco3.jpg" width={104} height={104} alt="capa do album"/>
+          <strong>Sisyphus</strong>
+          </div>
+          <div className='bg-white/10 rounded  flex items-center  gap-4 overflow-hidden'>
+          <Image src="/images/disco02.jpg" width={104} height={104} alt="capa do album"/>
+          <strong>Transcender</strong>
+          </div>
+          <div className='bg-white/10 rounded  flex items-center  gap-4 overflow-hidden'>
+          <Image src="/images/disco1.jpg" width={104} height={104} alt="capa do album"/>
+          <strong>brasilidade</strong>
+          </div>
+          <div className='bg-white/10 rounded flex items-center  gap-4 overflow-hidden'>
+          <Image src="/images/disco04.jpg" width={104} height={104} alt="capa do album"/>
+          <strong>Nice Guys</strong>
+          </div>
         </div>
       </main>
     </div>
