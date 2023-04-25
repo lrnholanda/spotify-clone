@@ -1,5 +1,5 @@
-# https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white[Spotify Interface Clone](https://github.com/lrnholanda/spotify-clone)
-![Thumbnail](./images/spotify01.png)
+# ⏪ ▶ ⏩ [Spotify UI Clone](https://github.com/lrnholanda/spotify-clone)
+![Thumbnail](./public/images/spotify01.png)
  
 ### Links
 
