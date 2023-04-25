@@ -11,7 +11,9 @@
 
 ### Built with
 
+- Next.js
 - Semantic HTML5 markup
+- Lucide React
 - Tailwind custom properties
 - Flexbox
 - CSS Grid
