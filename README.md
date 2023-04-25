@@ -1,5 +1,7 @@
 # ⏪ ▶ ⏩ [Spotify UI Clone](https://github.com/lrnholanda/spotify-clone)
 ![Thumbnail](./public/images/spotify01.png)
+
+😀 feel free to contribute with it or new functionatities.
  
 ### Links
 
